@@ -1,5 +1,5 @@
-# advent-of-code
-These are my solutions written in JavaScript using NodeJS to solve [Advent of Code](http://adventofcode.com/) puzzles.
+# advent-of-code 2017
+These are my solutions written in JavaScript using NodeJS to solve [Advent of Code 2017](http://adventofcode.com/2017) puzzles.
 
  ## What is Advent of Code?
 
